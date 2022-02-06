@@ -1,2 +1,9 @@
 # Calcul-du-PGCD-par-Algorithme-d-Euclide
-Calcul du PGCD (Plus Grand Diviseur Commun) de deux nombres entiers a et b par l'Algorithme d'Euclide
+Ce programme est un programme codé en Python
+
+Il propose une fonction my_PGCD qui calcule le PGCD (Plus Grand Diviseur Commun) de deux nombres entiers a et b par l'Algorithme d'Euclide.
+L'algorithme d'Euclide fait partie du chapitre d'Arithmétique vue en classe de troisième.
+
+Lorsqu'on lance le programme il permet la saisie des nombres a et b puis lance la fonction my_PGCD.
+
+
