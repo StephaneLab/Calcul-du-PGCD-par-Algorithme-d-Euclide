@@ -1,5 +1,5 @@
 #!/usr/bin/python3.9
-# Licence MIT copyright (c) 2022 Stéphane Lassalvy
+# Licence MIT Copyright (c) 2022 Stéphane Lassalvy
 # Algorithme d'Euclide pour le PGCD
 def my_PGCD(a, b):
     # On écrit les choses de façon à ce que b soit le plus petit des deux nombres
