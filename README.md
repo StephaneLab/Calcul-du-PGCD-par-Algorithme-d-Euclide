@@ -6,4 +6,6 @@ L'algorithme d'Euclide fait partie du chapitre d'Arithmétique vue en classe de 
 
 Lorsqu'on lance le programme il permet la saisie des nombres a et b puis lance la fonction my_PGCD_Euclide.
 
+On pourra comparer le nombre d'itérations nécessaires pour calculer le PGCD avec l'algorithme d'Euclide du nombre d'itérations nécessaires pour calculer le PGCD avec la méthode des différences successives.
+
 
